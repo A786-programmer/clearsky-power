@@ -13676,7 +13676,7 @@ nav ul li a {
 }
 
 .banner-solar-energy-bg {
-  background-image: url(../../imgs/home-banner-img.avif);
+  background-image: url(../../imgs/home/home-banner.jpg);
   height: 850px;
   display: flex;
   align-items: center;
@@ -19437,7 +19437,7 @@ p {
   overflow: hidden;
   display: block;
   position: relative;
-  background-image: url(../images/service/19.png);
+  background-image: url(../../imgs/home/assessment-and-design.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 2;
@@ -19446,15 +19446,11 @@ p {
 }
 
 .single-service-solari.two {
-  background-image: url(../images/service/26.png);
+  background-image: url(../../imgs/home/solar-installation.jpg);
 }
 
 .single-service-solari.three {
-  background-image: url(../images/service/27.png);
-}
-
-.single-service-solari.four {
-  background-image: url(../images/service/28.png);
+  background-image: url(../../imgs/home/solar-maintenance.jpg);
 }
 
 .single-service-solari::after {
