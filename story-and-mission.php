@@ -40,6 +40,7 @@
                                     <div class="single-about-content-solar">
                                         <h6>Who We Are</h6>
                                         <p class="disc">Founded in 2019, ClearSky Power is a privately owned solar energy company. Our engineers and technicians have decades of experience delivering residential, commercial, and industrial renewable energy projects in Somaliland, Puntland, and the USA</p>
+                                        <p class="disc">We have offices in Hargeisa, Garoowe, Mogadishu, Kismayo, and Boston, USA.</p>
                                     </div>
                                 </div>
                             </div>

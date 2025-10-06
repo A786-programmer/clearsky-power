@@ -4,7 +4,7 @@
         <?php include 'header-files.php' ?>
         <title>Home | <?= $websiteName ?></title>
     </head>
-    <body class="solar-energy-home">
+    <body class="">
         <?php include 'header.php' ?>
         <div class="banner-area-start banner-solar-energy-bg bg_image">
             <div class="container">
@@ -82,50 +82,133 @@
                 </div>
             </div>
         </div>
-        <div class="rts-cta-area-solar cta-soalr-inner-main">
-            <div class="container-full">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="thumbnail pr--40 pr_sm--0">
-                            <img src="assets/images/cta/05.jpg" alt="cta-imaegs">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 pl--30 mt_sm--50">
-                        <div class="solar-left-inner-area-cta">
+        <div class="rts-faq-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="rts-single-wized">
                             <div class="title-area-left">
                                 <h2 class="title skew-up">
                                     Why Choose <br> <span>ClearSky Power</span>
                                 </h2>
                             </div>
-                            <div class="expertiex-solar-inner">
-                                <div class="single-exp">
-                                    <img src="assets/images/cta/07.png" alt="icon">
-                                    <div class="info-wrapper">
-                                        <h5 class="title">Cost Savings</h5>
-                                        <p class="dsic">High-efficiency panels + smart inverters</p>
+                            <div class="card-cta">
+                                <div class="thumbnail">
+                                    <img src="assets/images/cta/05.jpg" alt="cta">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="faq-area-start-one">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                            Cost Savings
+                                            <i class="fa-light fa-chevron-down"></i>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="inner">
+                                                <div class="content">
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    High-efficiency equipment maximizes solar production even with limited space.
+                                                    <br>
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    Smart inverters manage multiople energy sources (solar, batteriies, grid, and generators) to generate least cost power.
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="single-exp">
-                                    <img src="assets/images/cta/06.png" alt="icon">
-                                    <div class="info-wrapper">
-                                        <h5 class="title">Power Quality</h5>
-                                        <p class="dsic">Pure sine wave inverters + advanced equipment</p>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            Power Quality
+                                            <i class="fa-light fa-chevron-down"></i>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="inner">
+                                                <div class="content">
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    Pure sine wave inverters provide excellent power quality
+                                                    <br>
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    Additional power quality equipment can be installed for challenging loads
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="single-exp">
-                                    <img src="assets/images/cta/07.png" alt="icon">
-                                    <div class="info-wrapper">
-                                        <h5 class="title">Reliability</h5>
-                                        <p class="dsic">Automatic backup + off-grid capability</p>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            Reliability
+                                            <i class="fa-light fa-chevron-down"></i>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="inner">
+                                                <div class="content">
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    Automatic transfer between power sources adds redundancy
+                                                    <br>
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    Off-grid operation provides backup power when grid is down
+                                                    <br>
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    Remote monitoring ensures fast response for service & maintenance
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="single-exp">
-                                    <img src="assets/images/cta/06.png" alt="icon">
-                                    <div class="info-wrapper">
-                                        <h5 class="title">Expert Design </h5>
-                                        <p class="dsic">Engineers using advanced modeling tools</p>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                            Expert Design
+                                            <i class="fa-light fa-chevron-down"></i>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="inner">
+                                                <div class="content">
+                                                    <i class="fa-light fa-circle-check"></i>
+                                                    Our engineers collect on-site power data and utilize the latest modeling tools to optimize design of your system.
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="why-choose-us-section pt--40 pb--40 bg-why-choose-us">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="video-thumbnail-img ml--0 mr--20">
+                            <img src="imgs/home/monitoring-system.png" alt="mission">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="choose-us-content-left-wrapper-4 pt--50">
+                            <div class="solari-title-area-four">
+                                <h2 class="title skew-up">Remote Monitoring & Maintenance</h2>
+                            </div>
+                            <div class="inner-content">
+                                <p class="disc">
+                                    We provides remote monitoring and service & maintenance for all its installations. Energy data, system health reports, fault identification, and financial analysis - allow us to monitor the performance of your investment.
+                                </p>
                             </div>
                         </div>
                     </div>

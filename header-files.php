@@ -18,4 +18,5 @@
 <?php 
     session_start();
     $websiteName = 'Clear Sky Power';
+    error_reporting(0);
 ?>

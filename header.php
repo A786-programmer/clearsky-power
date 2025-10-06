@@ -52,27 +52,18 @@
                                     <li class="has-dropdown">
                                         <a class="nav-link" href="services.php"> Services </a>
                                         <ul class="submenu">
-                                            <li><a href="services.php">Commercial & Residential</a></li>
-                                            <li><a href="services.php">Farming & Agriculture</a></li>
-                                            <li><a href="services.php">Mini Grids</a></li>
+                                            <li><a href="services.php?t=com">Commercial & Residential</a></li>
+                                            <li><a href="services.php?t=farm">Farming & Agriculture</a></li>
+                                            <li><a href="services.php?t=mini">Mini Grids</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="nav-link" href="projects.php"> Projects </a></li>
-                                    <!-- <li><a class="nav-link" href="blogs.php">Blogs/Articles</a></li>
-                                    <li><a class="nav-link" href="faqs.php">FAQs</a></li> -->
-                                    <!-- <li class="has-dropdown">
-                                        <a class="nav-link" href="javascript:void(0)">Resources</a>
-                                        <ul class="submenu">
-                                            <li><a href="blogs.php">Blogs/Articles</a></li>
-                                            <li><a href="faqs.php">FAQs</a></li>
-                                        </ul>
-                                    </li> -->
                                     <li><a class="nav-link" href="contact-us.php"> Contact Us </a></li>
                                 </ul>
                             </nav>
                         </div>
                         <div class="actions-area">
-                            <a href="get-quote.php" class="rts-btn btn-primary">Get A Free Quote</a>
+                            <a href="contact-us.php" class="rts-btn btn-primary">Get A Free Quote</a>
                         </div>
                     </div>
                 </div>
