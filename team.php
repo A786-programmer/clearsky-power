@@ -32,6 +32,21 @@
                     <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/boyah.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Boyah Farah</h5>
+                                    </a>
+                                    <span>Chief Strategy Officer (CSO)</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/ibrahim.avif" alt="team-details">
                             </a>
                             <div class="inner-content">
@@ -40,7 +55,6 @@
                                         <h5 class="title">Ibrahim Ibrahim</h5>
                                     </a>
                                     <span>CFO <a href="https://www.linkedin.com/in/ibrahim-ibrahim-519a561/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></span>
-                                    <p style="color: white">As the CFO, Ibrahim is a qualified MBA graduate and Chartered Accountant with more than 21 years’ experience working in large blue chip multinationals. He is a sustainable development enthusiast and passionate about renewable energy</p>
                                 </div>
                             </div>
                         </div>
@@ -48,15 +62,14 @@
                     <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
-                                <img src="imgs/team/mohamed.avif" alt="team-details">
+                                <img src="imgs/team/abdikadar.jpg" alt="team-details">
                             </a>
                             <div class="inner-content">
                                 <div class="main_con">
                                     <a href="javascript:void(0)">
-                                        <h5 class="title">Mohamed Abdilahi</h5>
+                                        <h5 class="title">Abdikadar Farah</h5>
                                     </a>
-                                    <span>Senior Solar Engineer</span>
-                                    <p style="color: white">Mohamed is a Senior Solar Engineer.  He has a degree in Electrical Engineering and a passion for new technologies, sustainable energy, and computer programming. With prior experience as an auto electrician, he brings practical expertise to advance innovative and sustainable energy solutions.</p>
+                                    <span>Chief Operating Officer (COO)</span>
                                 </div>
                             </div>
                         </div>
@@ -64,15 +77,14 @@
                     <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
-                                <img src="imgs/team/khaalid.avif" alt="team-details">
+                                <img src="imgs/team/emilio.jpg" alt="team-details">
                             </a>
                             <div class="inner-content">
                                 <div class="main_con">
                                     <a href="javascript:void(0)">
-                                        <h5 class="title">Khaalid Ahmed Awali</h5>
+                                        <h5 class="title">Emilio Perez</h5>
                                     </a>
-                                    <span>Senior Solar Engineer</span>
-                                    <p style="color: white">Khaalid is a Senior Solar Engineer with a passion for renewable energy,  agriculture, and all things green. As alumnus of EARTH University, with a degree in renewable energy and sustainable agriculture and the  founder of Rumaan Farms, he brings innovative sustainable and agricultural solutions.</p>
+                                    <span>Procurement & Logistics </span>
                                 </div>
                             </div>
                         </div>
@@ -80,19 +92,42 @@
                     <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
-                                <img src="imgs/team/saleeban.avif" alt="team-details">
+                                <img src="imgs/team/-.jpg" alt="team-details">
                             </a>
                             <div class="inner-content">
                                 <div class="main_con">
                                     <a href="javascript:void(0)">
-                                        <h5 class="title">Saleeban Ali</h5>
+                                        <h5 class="title"></h5>
                                     </a>
-                                    <span>Sales & Partnership Officer</span>
-                                    <p style="color: white">Saleeban is Sales and Partnership Officer, A graduate in Public Administration_Entrepreneurship, brings 5 years of expertise in sales,  and entrepreneurship to our team. With a successful track record in managing his own startup, Saleeban adds valuable insights and leadership to our dynamic environment.</p>
+                                    <span></span>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/luke.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Luke Cantrell</h5>
+                                    </a>
+                                    <span>Technology & Innovation</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4"></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center mt--30 mb--10">
+                        <h4>Engineering & Sales</h4>
+                    </div>
+                </div>
+                <div class="row g-5">
                     <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
@@ -104,23 +139,6 @@
                                         <h5 class="title">Nuh Mohamed</h5>
                                     </a>
                                     <span>Business Manager</span>
-                                    <p style="color: white">Nuh is the Business Manager. He is a  seasoned professional with eight years of experience in  finance  and bussiness management. He holds a Bachelor's degree in Architecture and Urban Planning. With a visionary approach, Nuh envisions and implements projects that align with his values for a more sustainable and resilient future.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="rts-single-team-one">
-                            <a href="javascript:void(0)" class="thumbnail">
-                                <img src="imgs/team/ahmed.avif" alt="team-details">
-                            </a>
-                            <div class="inner-content">
-                                <div class="main_con">
-                                    <a href="javascript:void(0)">
-                                        <h5 class="title">Ahmed Abdilahi</h5>
-                                    </a>
-                                    <span>Solar Technician</span>
-                                    <p style="color: white">Ahmed is Solar Technician and Engineering logistics. He is a graduate of Electrical Engineeringing. He brings five years of expertise in solar, renewable energy and in mini-grid systems, low voltage applications, and a variety of off-grid and on-grid projects. He excels in delivering effective and sustainable energy solutions</p>
                                 </div>
                             </div>
                         </div>
@@ -136,21 +154,126 @@
                                         <h5 class="title">Dan Naigambi</h5>
                                     </a>
                                     <span>Remote Engineering Supporter</span>
-                                    <p style="color: white">As the Remote Engineering Support, Dan brings 32 years of experience in designing, installing and maintaining solar and hybrid power generation systems. Trained as an Electrical Engineer he has worked as an engineer, manager, and director for multiple engineering firms in East Africa. </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 text-center mt--30 mb--10">
-                        <h4>Engineering & Sales</h4>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/mohamed.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Mohamed Abdiilahi</h5>
+                                    </a>
+                                    <span>Solar Engineer</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/ahmed.avif" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Ahmed Abdilahi</h5>
+                                    </a>
+                                    <span>Solar Technician</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/clement.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Clement Kahenya</h5>
+                                    </a>
+                                    <span>Solar Technician</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/abdifitah.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Abdifitah Ahmed</h5>
+                                    </a>
+                                    <span>Solar Technician</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/joseph.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Joseph Naigambi</h5>
+                                    </a>
+                                    <span>Solar Technician</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4"></div>
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center mt--30 mb--10">
                         <h4>Technical Advisors</h4>
                     </div>
+                </div>
+                <div class="row g-5">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/vinod.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Dr.Vinod Khadkikar</h5>
+                                    </a>
+                                    <span>Power Electronics</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="rts-single-team-one">
+                            <a href="javascript:void(0)" class="thumbnail">
+                                <img src="imgs/team/hatem.jpg" alt="team-details">
+                            </a>
+                            <div class="inner-content">
+                                <div class="main_con">
+                                    <a href="javascript:void(0)">
+                                        <h5 class="title">Dr.Hatem Zeineldin</h5>
+                                    </a>
+                                    <span>Power Distribution</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2"></div>
                 </div>
             </div>
         </div>
