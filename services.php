@@ -161,55 +161,26 @@
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="thumbnail-area-left-image">
-                                                <img src="assets/images/service/24.jpg" alt="service">
+                                                <img src="imgs/services/mini-grids.png" alt="service">
                                             </div>
                                         </div>
-                                        <div class="col-lg-6 pl--60 pl_sm--10 mt_sm--50">
+                                        <div class="col-lg-6">
                                             <div class="inner-content-service-right-solari mt--10">
-                                                <h3 class="title">Wind Energy Services</h3>
-                                                <p class="disc">
-                                                    Our comprehensive solar energy services are designed to provide you with reliable, efficient, and sustainable solar solutions.
-                                                </p>
-                                                <p class="disc">
-                                                    We offer customized solar energy solutions for homeowners, helping them harness the power of the sun to generate clean and renewable electricity for their homes.
-                                                </p>
-                                            </div>
-                                            <div class="row">
-                                                <div class="col-lg-6">
-                                                    <div class="thumbnail-img-sm-service">
-                                                        <img src="assets/images/service/22.jpg" alt="service">
+                                                <h3 class="title">Two 100kW sites with 200kWh of battery storage for village electrification under development.</h3>
+                                                <div class="service-singlew-main-wrapper-sm">
+                                                    <div class="single-service">
+                                                        <img src="assets/images/service/dt.png" alt="service">
+                                                        <p>Own and operate model with CSP serving as local electricity service provider (ESP).</p>
+                                                    </div>
+                                                    <div class="single-service">
+                                                        <img src="assets/images/service/dt.png" alt="service">
+                                                        <p>Working with local communities to ensure long-term sustainability and develop productive uses of electricity.</p>
+                                                    </div>
+                                                    <div class="single-service">
+                                                        <img src="assets/images/service/dt.png" alt="service">
+                                                        <p>First project in Alley-Badey, Somaliland.</p>
                                                     </div>
                                                 </div>
-                                                <div class="col-lg-6">
-                                                    <div class="service-singlew-main-wrapper-sm">
-                                                        <!-- single start -->
-                                                        <div class="single-service">
-                                                            <img src="assets/images/service/dt.png" alt="service">
-                                                            <p>Residential Solar Installation</p>
-                                                        </div>
-                                                        <!-- single end -->
-                                                        <!-- single start -->
-                                                        <div class="single-service">
-                                                            <img src="assets/images/service/dt.png" alt="service">
-                                                            <p>Residential Solar Installation</p>
-                                                        </div>
-                                                        <!-- single end -->
-                                                        <!-- single start -->
-                                                        <div class="single-service">
-                                                            <img src="assets/images/service/dt.png" alt="service">
-                                                            <p>Residential Solar Installation</p>
-                                                        </div>
-                                                        <!-- single end -->
-                                                        <!-- single start -->
-                                                        <div class="single-service">
-                                                            <img src="assets/images/service/dt.png" alt="service">
-                                                            <p>Residential Solar Installation</p>
-                                                        </div>
-                                                        <!-- single end -->
-                                                    </div>
-                                                </div>
-
-                                                <a href="service-details.html" class="rts-btn btn-primary"> More Service</a>
                                             </div>
                                         </div>
                                     </div>

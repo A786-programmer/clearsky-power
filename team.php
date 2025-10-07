@@ -6,10 +6,15 @@
     </head>
     <body class="solar-energy-home">
         <?php include 'header.php' ?>
-        <div class="rts-team-area ">
+        <div class="rts-team-area">
             <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center mt--30 mb--10">
+                        <h4>Managment Team</h4>
+                    </div>
+                </div>
                 <div class="row g-5">
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/scott.avif" alt="team-details">
@@ -20,12 +25,11 @@
                                         <h5 class="title">Scott Kennedy</h5>
                                     </a>
                                     <span>CEO <a href="https://www.linkedin.com/in/scott-kennedy/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></span>
-                                    <p style="color: white">As the CEO of CSP, Scott brings over 20 years experience in renewable energy based power systems. He has founded and directed engineering firms, social enterprises and nonprofit organizations across Asia, Africa, and the Middle East</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/ibrahim.avif" alt="team-details">
@@ -41,7 +45,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/mohamed.avif" alt="team-details">
@@ -57,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/khaalid.avif" alt="team-details">
@@ -73,7 +77,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/saleeban.avif" alt="team-details">
@@ -89,7 +93,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/nuh.avif" alt="team-details">
@@ -105,7 +109,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/ahmed.avif" alt="team-details">
@@ -121,7 +125,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="rts-single-team-one">
                             <a href="javascript:void(0)" class="thumbnail">
                                 <img src="imgs/team/dan.avif" alt="team-details">
@@ -138,12 +142,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-12 text-center mt--30 mb--10">
+                        <h4>Engineering & Sales</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center mt--30 mb--10">
+                        <h4>Technical Advisors</h4>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="rts-about-area position-relative">
-            <!-- <span class="stok-bg images-r left">
-                About Us
-            </span> -->
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
