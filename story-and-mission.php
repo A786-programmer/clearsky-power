@@ -47,6 +47,31 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="project-soalr-wrapper">
+                            <div class="title-area">
+                                <div class="title-area-left">
+                                    <h2 class="title skew-up mt--70 mb--30">
+                                        Our Working Sites
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="gallery-wrapper">
+                            <img src="imgs/story-and-mission/usa.png" alt="gallery-image">
+                            <h6 class="text-center">USA</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="gallery-wrapper">
+                            <img src="imgs/story-and-mission/africa.png" alt="gallery-image">
+                            <h6 class="text-center">Africa</h6>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <?php include 'footer.php' ?>
