@@ -285,10 +285,10 @@
           },
           breakpoints: {
             1500: {
-              slidesPerView: 3,
+              slidesPerView: 2,
             },
             1199: {
-              slidesPerView: 3,
+              slidesPerView: 2,
             },
             991: {
               slidesPerView: 2,

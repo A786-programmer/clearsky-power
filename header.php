@@ -52,18 +52,18 @@
                                     <li class="has-dropdown">
                                         <a class="nav-link" href="services.php"> Services </a>
                                         <ul class="submenu">
-                                            <li><a href="services.php?t=com">Commercial & Residential</a></li>
-                                            <li><a href="services.php?t=farm">Farming & Agriculture</a></li>
-                                            <li><a href="services.php?t=mini">Mini Grids</a></li>
+                                            <li><a href="services.php?t=solar">Solar EPC</a></li>
+                                            <li><a href="services.php?t=mini">Mini Grid Development</a></li>
+                                            <li><a href="services.php?t=eng">Engineering Services</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="nav-link" href="projects.php"> Projects </a></li>
-                                    <li><a class="nav-link" href="contact-us.php"> Contact Us </a></li>
+                                    <!-- <li><a class="nav-link" href="contact-us.php"> Contact Us </a></li> -->
                                 </ul>
                             </nav>
                         </div>
                         <div class="actions-area">
-                            <a href="contact-us.php" class="rts-btn btn-primary">Get A Free Quote</a>
+                            <a href="contact-us.php" class="rts-btn btn-primary">Contact Us</a>
                         </div>
                     </div>
                 </div>

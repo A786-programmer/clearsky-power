@@ -6,7 +6,35 @@
     </head>
     <body class="solar-energy-home">
         <?php include 'header.php' ?>
-        <div class="rts-make-an-appoinemtn-area reveal mt--40">
+        <div class="rts-cta-area mt--40 mb--40">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="cta-solari-wrapper text-center">
+                            <div class="banner-solari-2-content">
+                                <h4 class="banner-title">ClearSky HQ</h4>
+                                <h6 class="text-white">Maansoor Area, Hargeisa, Somaliland</h6>
+                                <a href="tel:+252 637 652 037">
+                                    <h6 class="title text-white">+252 637 652 037</h6>
+                                </a>
+                                <a href="mailto:info@clearsky-power.com">
+                                    <h6 class="title text-white under-line">info@clearsky-power.com</h6>
+                                </a>
+                                <h6 class="text-white mt--60">Jidka Nawawi (Nawawi Street), Garowe, Somalia</h6>
+                                <a href="tel:+252 906 904 702">
+                                    <h6 class="title text-white">+252 906 904 702</h6>
+                                </a>
+                                <a href="mailto:info@clearsky-power.com">
+                                    <h6 class="title text-white under-line">info@clearsky-power.com</h6>
+                                </a>
+                                <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="rts-make-an-appoinemtn-area reveal mt--40">
             <div class="container">
                 <div class="row align-items-center g-0 bg-appoinment">
                     <div class="col-md-6">
@@ -94,7 +122,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <?php include 'footer.php' ?>
     </body>
 </html>

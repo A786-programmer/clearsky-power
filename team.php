@@ -6,7 +6,7 @@
     </head>
     <body class="solar-energy-home">
         <?php include 'header.php' ?>
-        <div class="rts-team-area">
+        <div class="rts-team-area mb--40">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center mt--30 mb--10">
@@ -274,33 +274,6 @@
                         </div>
                     </div>
                     <div class="col-md-2"></div>
-                </div>
-            </div>
-        </div>
-        <div class="rts-about-area position-relative">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="solari-about-left-content">
-                            <div class="title-area-left mt skew-up">
-                                <p class="pre mb--30">
-                                    <span>Affiliation</span>
-                                </p>
-                                <p>ClearSky Power has partnered with Nomad Energy to provide advanced solar energy solutions to businesses, institutions, and individuals based in Puntland.</p>
-                                <p class="mb--30">Nomad Energy is the key focal point for all our work in Puntland and the go to business for designing and installing high quality and affordable solar.</p>
-                                <h4>Commercial License No: 2465</h4>
-                                <!-- <h6 class="">Installation, Maintenance and Repair Service</h6>
-                                <h6 class="">Installation, Maintenance and Repair Service</h6>
-                                <h6 class="">Installation, Maintenance and Repair Service</h6>
-                                <h6 class="">Installation, Maintenance and Repair Service</h6> -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mt_md--50 mt_sm--40">
-                        <div class="thumbnail-solari-about">
-                            <img src="imgs/nomad-energy.png" style="width: 100%" alt="about">
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
