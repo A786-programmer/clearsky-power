@@ -8,7 +8,7 @@
         <?php include 'header.php' ?>
         <div class="rts-Product-area mt--30 mb--50">
             <div class="container">
-                <div class="row mb--10">
+                <div class="row">
                     <div class="col-lg-12">
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
@@ -20,9 +20,24 @@
                     </div>
                 </div>
             </div>
-            <div class="container-120">
+            <div class="container-120 mb--30">
                 <div class="row g-24">
-                    <div class="col-lg-12">
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/mansoor-hotel/1.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/mansoor-hotel/2.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/mansoor-hotel/3.avif" alt="project">
+                        </a>
+                    </div>
+                    <!-- <div class="col-lg-12">
                         <div class="swiper-h1-solari-main-wrapper">
                             <div class="swiper mySwiper-h1-solari-product">
                                 <div class="swiper-wrapper">
@@ -72,11 +87,11 @@
                                 <div class="swiper-pagination"></div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="container">
-                <div class="row mb--10">
+                <div class="row">
                     <div class="col-lg-12">
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
@@ -88,9 +103,24 @@
                     </div>
                 </div>
             </div>
-            <div class="container-120">
+            <div class="container-120 mb--30">
                 <div class="row g-24">
-                    <div class="col-lg-12">
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/barwaqo-university/1.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/barwaqo-university/2.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/barwaqo-university/3.avif" alt="project">
+                        </a>
+                    </div>
+                    <!-- <div class="col-lg-12">
                         <div class="swiper-h1-solari-main-wrapper">
                             <div class="swiper mySwiper-h1-solari-product">
                                 <div class="swiper-wrapper">
@@ -140,11 +170,11 @@
                                 <div class="swiper-pagination"></div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="container">
-                <div class="row mb--10">
+                <div class="row">
                     <div class="col-lg-12">
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
@@ -156,9 +186,24 @@
                     </div>
                 </div>
             </div>
-            <div class="container-120">
+            <div class="container-120 mb--30">
                 <div class="row g-24">
-                    <div class="col-lg-12">
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/horn-cable-tv/1.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/horn-cable-tv/2.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/horn-cable-tv/3.avif" alt="project">
+                        </a>
+                    </div>
+                    <!-- <div class="col-lg-12">
                         <div class="swiper-h1-solari-main-wrapper">
                             <div class="swiper mySwiper-h1-solari-product">
                                 <div class="swiper-wrapper">
@@ -208,11 +253,11 @@
                                 <div class="swiper-pagination"></div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="container">
-                <div class="row mb--10">
+                <div class="row">
                     <div class="col-lg-12">
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
@@ -224,9 +269,24 @@
                     </div>
                 </div>
             </div>
-            <div class="container-120">
-                <div class="row g-24">
-                    <div class="col-lg-12">
+            <div class="container-120 mb--30">
+                <div class="row">
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/abaarso-school/1.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/abaarso-school/2.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width: 100%" src="imgs/projects/abaarso-school/3.avif" alt="project">
+                        </a>
+                    </div>
+                    <!-- <div class="col-lg-12">
                         <div class="swiper-h1-solari-main-wrapper">
                             <div class="swiper mySwiper-h1-solari-product">
                                 <div class="swiper-wrapper">
@@ -255,11 +315,11 @@
                                 <div class="swiper-pagination"></div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="container">
-                <div class="row mb--10">
+                <div class="row">
                     <div class="col-lg-12">
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
@@ -271,9 +331,24 @@
                     </div>
                 </div>
             </div>
-            <div class="container-120">
+            <div class="container-120 mb--30">
                 <div class="row g-24">
-                    <div class="col-lg-12">
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width:100%" src="imgs/projects/mansoor-hotel-hargeisa/1.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width:100%" src="imgs/projects/mansoor-hotel-hargeisa/2.avif" alt="project">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="projects.php" class="">
+                            <img style="height:300px; width:100%" src="imgs/projects/mansoor-hotel-hargeisa/3.avif" alt="project">
+                        </a>
+                    </div>
+                    <!-- <div class="col-lg-12">
                         <div class="swiper-h1-solari-main-wrapper">
                             <div class="swiper mySwiper-h1-solari-product">
                                 <div class="swiper-wrapper">
@@ -302,10 +377,10 @@
                                 <div class="swiper-pagination"></div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
-            <div class="container">
+            <!-- <div class="container">
                 <div class="row mb--10">
                     <div class="col-lg-12">
                         <div class="project-soalr-wrapper">
@@ -825,7 +900,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <?php include 'footer.php' ?>
     </body>

@@ -69,42 +69,43 @@
                 <div class="swiper-button-prev"></div>
             </div>
         </div>
-        <div class="rts-about-style-four rts-section-gap bg-about-h4" id="new">
-            <div class="container">
+        <div class="rts-cta-area-solar cta-soalr-inner-main mt--30 mb--30">
+            <div class="container-full">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="rts-about-left-image-area">
-                            <div class="thumbnail">
-                                <img src="imgs/home/second-section.png" alt="solar energy">
-                            </div>
+                        <div class="thumbnail pr--40 pr_sm--0">
+                            <img src="imgs/home/second-section.png" alt="solar energy">
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 pl--30 mt_sm--50">
                         <div class="about-right-content-area-solar-energy">
                             <div class="title-area-left">
-                                <h2 class="title skew-up">About Us</h2>
-                                <h4 class="skew-up">Engineering Reliable Energy Systems Across the Horn of Africa</h4>
+                                <h2 class="title skew-up">Engineering Reliable Energy Systems Across the Horn of Africa</h2>
                             </div>
                             <div class="about-inner-four-h4">
-                                <h6 class="disc">ClearSky Power is an engineering and project delivery company specializing in solar and energy storage solutions for on-grid and off-grid applications. Based in the Horn of Africa, we design, build, and maintain efficient, reliable, and sustainable energy systems for homes, businesses, and industries</h6>
+                                <p class="disc">ClearSky Power is an engineering and project delivery company specializing in solar and energy storage solutions for on-grid and off-grid applications. Based in the Horn of Africa, we design, build, and maintain efficient, reliable, and sustainable energy systems for homes, businesses, and industries.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                </div>
+            </div>
+        </div>
+        <div class="rts-cta-area-solar cta-soalr-inner-main">
+            <div class="container-full">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 pl--30 mt_sm--50">
                         <div class="about-right-content-area-solar-energy">
                             <div class="title-area-right">
                                 <h2 class="title skew-up">Smart Solar Engineering</h2>
                             </div>
                             <div class="about-inner-four-h4">
-                                <h6 class="disc">ClearSky Power provides turnkey EPC and O&M services for solar and energy storage projects across the Horn of Africa. We design and build reliable, cost-efficient systems for homes, businesses, and industries</h6>
+                                <p class="disc">ClearSky Power provides turnkey EPC and O&M services for solar and energy storage projects across the Horn of Africa. We design and build reliable, cost-efficient systems for homes, businesses, and industries.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="rts-about-right-image-area">
-                            <div class="thumbnail">
-                                <img src="imgs/home/third-section.png" alt="solar energy">
-                            </div>
+                        <div class="thumbnail pr--40 pr_sm--0">
+                            <img src="imgs/home/third-section.png" alt="solar energy">
                         </div>
                     </div>
                 </div>
@@ -135,9 +136,7 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="rts-solar-single-product-one">
-                                            <a href="projects.php" class="thumbnail">
-                                                <img style="height:600px" src="imgs/projects/barwaqo-university/1.avif" alt="project">
-                                            </a>
+                                            <img style="height:600px; border-radius: 20px;" src="imgs/projects/barwaqo-university/1.avif" alt="project">
                                             <div class="inner-content">
                                                 <a href="projects.php">
                                                     <h5 class="title">Hybrid Solar-Diesel System</h5>
@@ -148,9 +147,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="rts-solar-single-product-one">
-                                            <a href="projects.php" class="thumbnail">
-                                                <img style="height:600px" src="imgs/projects/mansoor-hotel/1.avif" alt="project">
-                                            </a>
+                                            <img style="height:600px; border-radius: 20px;" src="imgs/projects/mansoor-hotel/1.avif" alt="project">
                                             <div class="inner-content">
                                                 <a href="projects.php">
                                                     <h5 class="title">Hybrid Solar-Diesel System</h5>
@@ -161,9 +158,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="rts-solar-single-product-one">
-                                            <a href="projects.php" class="thumbnail">
-                                                <img style="height:600px" src="imgs/projects/horn-cable-tv/1.avif" alt="project">
-                                            </a>
+                                            <img style="height:600px; border-radius: 20px;" src="imgs/projects/horn-cable-tv/1.avif" alt="project">
                                             <div class="inner-content">
                                                 <a href="projects.php">
                                                     <h5 class="title">Grid-Tied Solar System</h5>
@@ -174,9 +169,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="rts-solar-single-product-one">
-                                            <a href="projects.php" class="thumbnail">
-                                                <img style="height:600px" src="imgs/projects/abaarso-school/1.avif" alt="project">
-                                            </a>
+                                            <img style="height:600px; border-radius: 20px;" src="imgs/projects/abaarso-school/1.avif" alt="project">
                                             <div class="inner-content">
                                                 <a href="projects.php">
                                                     <h5 class="title">Hybrid Solar-Diesel System</h5>
@@ -187,9 +180,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="rts-solar-single-product-one">
-                                            <a href="projects.php" class="thumbnail">
-                                                <img style="height:600px" src="imgs/projects/mansoor-hotel-hargeisa/1.avif" alt="project">
-                                            </a>
+                                            <img style="height:600px; border-radius: 20px;" src="imgs/projects/mansoor-hotel-hargeisa/1.avif" alt="project">
                                             <div class="inner-content">
                                                 <a href="projects.php">
                                                     <h5 class="title">Solar Water Heating and Outdoor Lighting</h5>

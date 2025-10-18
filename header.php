@@ -43,7 +43,7 @@
                                 <ul>
                                     <li><a class="nav-link" href="index.php"> Home </a></li>
                                     <li class="has-dropdown">
-                                        <a class="nav-link" href="javascript:void(0)"> About Us </a>
+                                        <a class="nav-link" href="story-and-mission.php"> About Us </a>
                                         <ul class="submenu">
                                             <li><a href="story-and-mission.php">Our Story & Mission</a></li>
                                             <li><a href="team.php">Our Team</a></li>
