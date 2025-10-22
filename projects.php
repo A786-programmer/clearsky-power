@@ -13,7 +13,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">2022 | Mansoor Hotel, Burco | Hybrid Solar-Diesel System</h3>
+                                    <h5 class="skew-up">2022 | Mansoor Hotel, Burco | Hybrid Solar-Diesel System</h5>
                                 </div>
                             </div>
                         </div>
@@ -96,7 +96,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">2021 | Barwaaqo University | Hybrid Solar-Diesel System</h3>
+                                    <h5 class="skew-up">2021 | Barwaaqo University | Hybrid Solar-Diesel System</h5>
                                 </div>
                             </div>
                         </div>
@@ -179,7 +179,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">2019 | Horn Cable TV | Grid-Tied Solar System</h3>
+                                    <h5 class="skew-up">2019 | Horn Cable TV | Grid-Tied Solar System</h5>
                                 </div>
                             </div>
                         </div>
@@ -262,7 +262,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">2016 | Abaarso School | Hybrid Solar-Diesel System</h3>
+                                    <h5 class="skew-up">2016 | Abaarso School | Hybrid Solar-Diesel System</h5>
                                 </div>
                             </div>
                         </div>
@@ -324,7 +324,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Maansoor Hotel, Hargeisa | Solar Water Heating and Outdoor Lighting</h3>
+                                    <h5 class="skew-up">Maansoor Hotel, Hargeisa | Solar Water Heating and Outdoor Lighting</h5>
                                 </div>
                             </div>
                         </div>
@@ -386,7 +386,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Ashland Massachusetts | 134 KW PV, Grid-Tied</h3>
+                                    <h5 class="skew-up">Ashland Massachusetts | 134 KW PV, Grid-Tied</h5>
                                 </div>
                             </div>
                         </div>
@@ -440,7 +440,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">UNICEF, Hargeisa | 40 KW PV / 66 KWh BESS</h3>
+                                    <h5 class="skew-up">UNICEF, Hargeisa | 40 KW PV / 66 KWh BESS</h5>
                                 </div>
                             </div>
                         </div>
@@ -494,7 +494,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Cheetah Convservation Research Center Gabiley, Somaliland | 50 KW PV / 120 KWh BESS</h3>
+                                    <h5 class="skew-up">Cheetah Convservation Research Center Gabiley, Somaliland | 50 KW PV / 120 KWh BESS</h5>
                                 </div>
                             </div>
                         </div>
@@ -548,7 +548,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Marlborough Massachusetts | 43 KW PV, Grid-Tied</h3>
+                                    <h5 class="skew-up">Marlborough Massachusetts | 43 KW PV, Grid-Tied</h5>
                                 </div>
                             </div>
                         </div>
@@ -609,7 +609,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Commerical Rooftop Systems| Eastern Massachusetts | 300 KW PV Grid-Tied</h3>
+                                    <h5 class="skew-up">Commerical Rooftop Systems| Eastern Massachusetts | 300 KW PV Grid-Tied</h5>
                                 </div>
                             </div>
                         </div>
@@ -670,7 +670,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Various Farms | Solar Water Pumping Systems</h3>
+                                    <h5 class="skew-up">Various Farms | Solar Water Pumping Systems</h5>
                                 </div>
                             </div>
                         </div>
@@ -731,7 +731,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Various Residential Projects</h3>
+                                    <h5 class="skew-up">Various Residential Projects</h5>
                                 </div>
                             </div>
                         </div>
@@ -799,7 +799,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Gasiin Bistro Garowe, Somalia | 40 KW PV / 60 KWh BESS</h3>
+                                    <h5 class="skew-up">Gasiin Bistro Garowe, Somalia | 40 KW PV / 60 KWh BESS</h5>
                                 </div>
                             </div>
                         </div>
@@ -853,7 +853,7 @@
                         <div class="project-soalr-wrapper">
                             <div class="title-area">
                                 <div class="title-area-left">
-                                    <h3 class="skew-up">Alley Badey | Mini Grid 104 KW PV / 200 KWh BESS</h3>
+                                    <h5 class="skew-up">Alley Badey | Mini Grid 104 KW PV / 200 KWh BESS</h5>
                                 </div>
                             </div>
                         </div>

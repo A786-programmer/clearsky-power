@@ -103,7 +103,7 @@
                                             <div class="col-lg-6 pl--30 mt_sm--50">
                                                 <div class="about-right-content-area-solar-energy">
                                                     <div class="title-area-left">
-                                                        <h4 class="skew-up">We deliver end-to-end solar EPC solutions from design to installation. Our engineers use advanced tools, smart procurement, and precise execution to build efficient, reliable, and high-performing energy systems.</h4>
+                                                        <h4 class="">We deliver end-to-end solar EPC solutions from design to installation. Our engineers use advanced tools, smart procurement, and precise execution to build efficient, reliable, and high-performing energy systems.</h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -117,13 +117,13 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-6">
                                                 <div class="thumbnail pr--40 pr_sm--0">
-                                                    <img src="imgs/services/mini-grids.png" alt="solar energy">
+                                                    <img style="width: 100%" src="imgs/services/mini-grids.png" alt="solar energy">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 pl--30 mt_sm--50">
                                                 <div class="about-right-content-area-solar-energy">
                                                     <div class="title-area-left">
-                                                        <h4 class="skew-up">Mini-grids bring reliable, clean power to off-grid communities, unlocking opportunity and growth. They enable learning, power businesses, and drive local development across the Horn of Africa through scalable, high-performance engineering</h4>
+                                                        <h4 class="">Mini-grids bring reliable, clean power to off-grid communities, unlocking opportunity and growth. They enable learning, power businesses, and drive local development across the Horn of Africa through scalable, high-performance engineering.</h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -137,13 +137,13 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-6">
                                                 <div class="thumbnail pr--40 pr_sm--0">
-                                                    <img src="imgs/services/engineering-services.png" alt="solar energy">
+                                                    <img style="width: 100%" src="imgs/services/engineering-services.png" alt="solar energy">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 pl--30 mt_sm--50">
                                                 <div class="about-right-content-area-solar-energy">
                                                     <div class="title-area-left">
-                                                        <h4 class="skew-up">Our engineering team delivers full design and technical support from concept to completion. Using advanced tools and proven methods, we ensure every project is safe, efficient, and built for lasting performance.</h4>
+                                                        <h4 class="">Our engineering team delivers full design and technical support from concept to completion. Using advanced tools and proven methods, we ensure every project is safe, efficient, and built for lasting performance.</h4>
                                                     </div>
                                                 </div>
                                             </div>

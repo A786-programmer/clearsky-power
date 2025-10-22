@@ -16,7 +16,7 @@
                                     <div class="col-lg-8">
                                         <div class="banner-solari-2-content ptb--200 ptb_sm--130">
                                             <h2 class="banner-title">Engineering Smart Solar Solutions for every Scale</h2>
-                                            <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere</p>
+                                            <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere.</p>
                                             <div class="button-area">
                                                 <a href="contact-us.php" class="rts-btn btn-primary">Contact Us</a>
                                                 <a href="projects.php" class="rts-btn btn-light bg-w">See Our Projects</a>
@@ -34,7 +34,7 @@
                                     <div class="col-lg-8">
                                         <div class="banner-solari-2-content ptb--200 ptb_sm--130">
                                             <h2 class="banner-title">Engineering Smart Solar Solutions for every Scale</h2>
-                                            <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere</p>
+                                            <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere.</p>
                                             <div class="button-area">
                                                 <a href="contact-us.php" class="rts-btn btn-primary">Contact Us</a>
                                                 <a href="projects.php" class="rts-btn btn-light bg-w">See Our Projects</a>
@@ -52,7 +52,7 @@
                                     <div class="col-lg-8">
                                         <div class="banner-solari-2-content ptb--200 ptb_sm--130">
                                             <h2 class="banner-title">Engineering Smart Solar Solutions for every Scale</h2>
-                                            <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere</p>
+                                            <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere.</p>
                                             <div class="button-area">
                                                 <a href="contact-us.php" class="rts-btn btn-primary">Contact Us</a>
                                                 <a href="projects.php" class="rts-btn btn-light bg-w">See Our Projects</a>
@@ -104,8 +104,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="thumbnail pr--40 pr_sm--0">
-                            <img src="imgs/home/third-section.png" alt="solar energy">
+                        <div class="thumbnail pl--40 pl_sm--0">
+                            <img style="border-radius: 15px 0px 0px 15px" src="imgs/home/third-section.png" alt="solar energy">
                         </div>
                     </div>
                 </div>

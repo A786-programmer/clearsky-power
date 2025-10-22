@@ -12,7 +12,7 @@
                     <div class="col-lg-6">
                         <div class="rts-about-left-image-area">
                             <div class="thumbnail">
-                                <img src="assets/images/about/20.png" alt="solar energy">
+                                <img src="assets/images/about/20.jpeg" alt="solar energy">
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
                                 <div class="tab-pane fade" id="history-and-experience" role="tabpanel" aria-labelledby="history-and-experience-tab">
                                     <div class="single-about-content-solar">
                                         <h6>Who We Are</h6>
-                                        <p class="disc">Founded in 2019, ClearSky Power is a solar engineering company with decades of combined experience in renewable energy design, construction, and system integration. With offices across Somaliland, Puntland, Mogadishu, Kismayo, and Boston, we deliver reliable, high-performance projects backed by global expertise and local insight</p>
+                                        <p class="disc">Founded in 2019, ClearSky Power is a solar engineering company with decades of combined experience in renewable energy design, construction, and system integration. With offices across Somaliland, Puntland, Mogadishu, Kismayo, and Boston, we deliver reliable, high-performance projects backed by global expertise and local insight.</p>
                                     </div>
                                 </div>
                             </div>

@@ -16,7 +16,7 @@
         <div class="rts-team-area mb--20">
             <div class="container">
                 <div class="row mt--20 g-24">
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/scott.png" alt="team">
@@ -25,11 +25,11 @@
                                 <a href="javascript:void(0)">
                                     <h5 class="title">Scott Kennedy</h5>
                                 </a>
-                                <span>CEO <a href="https://www.linkedin.com/in/scott-kennedy/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></span>
+                                <span>Chief Executive Officer <a href="https://www.linkedin.com/in/scott-kennedy/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/boyah.png" alt="team">
@@ -38,11 +38,11 @@
                                 <a href="javascript:void(0)">
                                     <h5 class="title">Boyah Farah</h5>
                                 </a>
-                                <span>Chief Strategy Officer (CSO)</span>
+                                <span>Chief Strategy Officer</span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/ibrahim.png" alt="team">
@@ -51,11 +51,11 @@
                                 <a href="javascript:void(0)">
                                     <h5 class="title">Ibrahim Ibrahim</h5>
                                 </a>
-                                <span>CFO <a href="https://www.linkedin.com/in/ibrahim-ibrahim-519a561/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></span>
+                                <span>Chief Financial Officer <a href="https://www.linkedin.com/in/ibrahim-ibrahim-519a561/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/abdikadar.png" alt="team">
@@ -64,11 +64,11 @@
                                 <a href="javascript:void(0)">
                                     <h5 class="title">Abdikadar Farah</h5>
                                 </a>
-                                <span>Chief Operating Officer (COO)</span>
+                                <span>Chief Operating Officer</span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/emilio.png" alt="team">
@@ -77,11 +77,11 @@
                                 <a href="javascript:void(0)">
                                     <h5 class="title">Emilio Perez</h5>
                                 </a>
-                                <span>Procurement & Logistics </span>
+                                <span>Procurement & Logistics</span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/drew.png" alt="team">
@@ -94,7 +94,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/luke.png" alt="team">
@@ -107,7 +107,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/nuh.png" alt="team">
@@ -120,7 +120,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/dan.png" alt="team">
@@ -129,11 +129,11 @@
                                 <a href="javascript:void(0)">
                                     <h5 class="title">Dan Naigambi</h5>
                                 </a>
-                                <span>Remote Engineering Supporter</span>
+                                <span>Director of Engineer</span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/mohamed.png" alt="team">
@@ -146,7 +146,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/ahmed.png" alt="team">
@@ -159,7 +159,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/clement.png" alt="team">
@@ -172,7 +172,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/abdifitah.png" alt="team">
@@ -185,7 +186,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/joseph.png" alt="team">
@@ -198,7 +199,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3"></div>
+                </div>
+                <div class="row">
+                    <h2 class="text-center skew-up mt--30 mb--20">Technical Advisors</h2>
+                    <div class="col-md-3"></div>
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/vinod.png" alt="team">
@@ -211,7 +217,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-md-3">
                         <div class="solar-energy-team">
                             <div class="thumbnail">
                                 <img src="imgs/team/hatem.png" alt="team">
@@ -224,6 +230,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-3"></div>
                 </div>
             </div>
         </div>

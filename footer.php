@@ -67,12 +67,12 @@
                                             <p>Projects</p>
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="get-quote.php">
                                             <i class="fa-regular fa-chevron-right"></i>
                                             <p>Get Quote</p>
                                         </a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </div>
                         </div>
@@ -90,8 +90,8 @@
                                         </svg>
                                     </div>
                                     <div class="info-content ml-dec-5">
-                                        <a href="tel:+252 (0)63 7652037">
-                                            <h6 class="title">+252 (0)63 7652037</h6>
+                                        <a href="tel:+252 637 652 037">
+                                            <h6 class="title">+252 637 652 037</h6>
                                         </a>
                                         <a href="tel:+252 906 904 702">
                                             <h6 class="title">+252 906 904 702</h6>

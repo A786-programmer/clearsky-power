@@ -27,7 +27,7 @@
                                 <a href="mailto:info@clearsky-power.com">
                                     <h6 class="title text-white under-line">info@clearsky-power.com</h6>
                                 </a>
-                                <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere</p>
+                                <p class="disc">From homes to utility projects, we design,integrate, and maintain efficient solar systems that deliver dependable power anywhere.</p>
                             </div>
                         </div>
                     </div>

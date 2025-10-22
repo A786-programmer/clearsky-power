@@ -272,7 +272,7 @@
           // centeredSlides: true,
           loop: true,
           autoplay: {
-            delay: 2500,
+            delay: 3500,
           },
           loopFillGroupWithBlank: true,
           pagination: {
@@ -514,7 +514,7 @@
           effect: 'slide',
           loop: true,
           autoplay: {
-            delay: 5000,
+            delay: 7000,
           },
         });
       });
